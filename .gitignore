@@ -25,7 +25,7 @@
 !/custom/Espo/Custom/.htaccess
 !/custom/Espo/Modules/.htaccess
 /install/config.php
-
+.DS_Store
 client/css/espo/*
 client/lib/*
 client/modules/crm/lib/*
